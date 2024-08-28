@@ -1,8 +1,16 @@
 <template>
-  <section id="about" class="bg-gray-50 py-16 text-center">
+  <section id="about" class="py-16 px-4">
     <div class="container mx-auto">
-      <h2 class="text-3xl font-bold mb-8">About Me</h2>
-      <p class="text-lg text-gray-700">This is a brief description about me. I am a passionate developer with experience in various technologies.</p>
+      <h2 class="text-3xl font-bold text-center">About Me</h2>
+      <p class="mt-4 text-lg">I am a software developer with a strong background in web development and design. I enjoy solving complex problems and creating user-centric solutions.</p>
+      <div class="mt-8">
+        <h3 class="text-2xl font-semibold">Skills</h3>
+        <ul class="list-disc mt-2 ml-4">
+          <li>JavaScript, Vue.js, Python, Flutter, Dart</li>
+          <li>HTML, CSS, Tailwind CSS</li>
+          <li>Mobile Development, Agile, Team Player</li>
+        </ul>
+      </div>
     </div>
   </section>
 </template>

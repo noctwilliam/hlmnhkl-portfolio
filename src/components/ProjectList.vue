@@ -1,16 +1,13 @@
 <template>
-  <section id="projects" class="py-16">
-    <div class="container mx-auto text-center">
-      <h2 class="text-3xl font-bold mb-8">Projects</h2>
-      <div class="grid grid-cols-1 sm:grid-cols-2 gap-8">
-        <!-- Example project item -->
+  <section id="projects" class="py-16 px-4 bg-gray-100">
+    <div class="container mx-auto">
+      <h2 class="text-3xl font-bold text-center">Projects</h2>
+      <div class="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-8 mt-8">
+        <!-- Example Project -->
         <div class="bg-white p-6 rounded-lg shadow-md">
-          <h3 class="text-xl font-semibold mb-2">Project 1</h3>
-          <p class="text-gray-600">A brief description of Project 1.</p>
-        </div>
-        <div class="bg-white p-6 rounded-lg shadow-md">
-          <h3 class="text-xl font-semibold mb-2">Project 2</h3>
-          <p class="text-gray-600">A brief description of Project 2.</p>
+          <h3 class="text-xl font-semibold">Project Title</h3>
+          <p class="mt-2">A brief description of the project, technologies used, and key features.</p>
+          <a href="#" class="mt-4 inline-block text-blue-500">View Project</a>
         </div>
       </div>
     </div>
