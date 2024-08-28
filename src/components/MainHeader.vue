@@ -1,7 +1,7 @@
 <template>
   <header class="bg-white shadow-sm py-4">
     <div class="container mx-auto flex flex-wrap items-center justify-between">
-      <h1 class="text-2xl font-semibold">hlmnhkl</h1>
+      <h1 class="text-2xl font-semibold text-white">hlmnhkl</h1>
       <nav>
         <ul class="flex flex-wrap space-x-4 mt-2 lg:mt-0">
           <li><a href="#hero" class="hover:text-blue-600">Home</a></li>
@@ -22,9 +22,12 @@ export default {
 
 <style scoped>
 header {
-  background-color: #fff;
+  background-color: #000000;
 }
 a {
   text-decoration: none;
+}
+li {
+  color: #ffffff;
 }
 </style>
