@@ -4,7 +4,7 @@
       <h2 class="text-3xl font-bold text-center text-black">Projects</h2>
       <div class="grid grid-cols-1 gap-8 mt-8">
         <!-- Example Project -->
-        <div class="bg-white p-6 rounded-lg shadow-md bg-stone-800">
+        <div class="p-6 rounded-lg shadow-md bg-stone-800">
           <h3 class="text-xl font-semibold text-white">MindGuard</h3>
           <p class="mt-2 text-white">A brief description of the project, technologies used, and key features.</p>
           <a href="#" class="mt-4 inline-block text-white hover:text-stone-500">View Project</a>
