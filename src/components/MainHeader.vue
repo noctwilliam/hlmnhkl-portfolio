@@ -4,10 +4,10 @@
       <h1 class="text-2xl font-semibold text-white">hlmnhkl</h1>
       <nav>
         <ul class="flex flex-wrap space-x-4 mt-2 lg:mt-0">
-          <li><a href="#hero" class="hover:text-blue-600">Home</a></li>
-          <li><a href="#projects" class="hover:text-blue-600">Projects</a></li>
-          <li><a href="#about" class="hover:text-blue-600">About</a></li>
-          <li><a href="#contact" class="hover:text-blue-600">Contact</a></li>
+          <li><a href="#hero" class="hover:text-slate-900">Home</a></li>
+          <li><a href="#projects" class="hover:text-slate-900">Projects</a></li>
+          <li><a href="#about" class="hover:text-slate-900">About</a></li>
+          <li><a href="#contact" class="hover:text-slate-900">Contact</a></li>
         </ul>
       </nav>
     </div>
@@ -22,7 +22,7 @@ export default {
 
 <style scoped>
 header {
-  background-color: #000000;
+  background-color: #020617;
 }
 a {
   text-decoration: none;
