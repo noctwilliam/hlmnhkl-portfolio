@@ -1,8 +1,8 @@
 <template>
   <section id="hero" class="bg-blue-500 text-white text-center py-20">
-    <h1 class="text-4xl font-bold">Hi, I'm Hilman Haikal</h1>
-    <p class="text-xl mt-4">A passionate software developer and designer.</p>
-    <a href="#projects" class="mt-8 inline-block bg-white text-blue-500 py-2 px-4 rounded">See My Work</a>
+    <h1 class="text-4xl font-bold text-black">Hi, I'm Hilman Haikal</h1>
+    <p class="text-xl mt-4 text-black">A passionate software developer and designer.</p>
+    <a href="#projects" class="mt-8 inline-block bg-white text-black py-2 px-4 rounded">See My Work</a>
   </section>
 </template>
 
