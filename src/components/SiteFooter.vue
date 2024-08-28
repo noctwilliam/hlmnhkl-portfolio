@@ -14,7 +14,7 @@ export default {
 
 <style scoped>
 footer {
-  background-color: #333;
+  background-color: #292524;
   color: white;
   text-align: center;
   padding: 1rem;
