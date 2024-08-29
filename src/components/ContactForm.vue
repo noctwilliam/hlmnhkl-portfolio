@@ -1,5 +1,5 @@
 <template>
-  <section id="contact" class="rounded-t-lg outline outline-1 outline-offset-1 outline-gray-300 bg-gray-700 py-20">
+  <section id="contact" class="outline outline-1 outline-offset-0 outline-gray-300 py-16 px-4 bg-gray-700">
     <div class="container mx-auto text-white">
       <h2 class="text-3xl font-bold text-center">Contact Me</h2>
       <form class="mt-8 max-w-lg mx-auto">

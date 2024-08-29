@@ -1,5 +1,5 @@
 <template>
-  <section id="about" class="rounded-lg outline outline-1 outline-offset-1 outline-gray-300 bg-gray-700 py-16 px-4">
+  <section id="about" class="outline outline-1 outline-offset-0 outline-gray-300 py-16 px-4 bg-gray-700">
     <div class="container mx-auto text-white">
       <h2 class="text-3xl font-bold text-center">About Me</h2>
       <p class="mt-4 text-lg text-center">

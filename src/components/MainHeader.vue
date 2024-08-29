@@ -3,7 +3,7 @@
     <div class="container mx-auto flex flex-wrap items-center justify-between">
       <h1 class="tracking-wide text-2xl font-semibold text-white">hlmnhkl</h1>
       <nav>
-        <ul class="flex flex-wrap space-x-4 mt-2 lg:mt-0 gap-2">
+        <ul class="flex flex-wrap space-x-4 mt-2 lg:mt-0">
           <li><a href="#hero" class="hover:text-gray-300">Home</a></li>
           <li><a href="#projects" class="hover:text-gray-300">Projects</a></li>
           <li><a href="#about" class="hover:text-gray-300">About</a></li>
