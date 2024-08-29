@@ -4,10 +4,14 @@
       <h2 class="text-3xl font-bold text-center text-black">Projects</h2>
       <div class="grid grid-cols-1 gap-8 mt-8">
         <!-- Example Project -->
-        <div class="p-6 rounded-lg shadow-md bg-stone-500">
+        <div class="p-6 rounded-lg md shadow-md bg-stone-500">
           <h3 class="text-xl font-semibold text-black">MindGuard</h3>
-          <p class="mt-2 text-black">A brief description of the project, technologies used, and key features.</p>
-          <a href="#" class="mt-4 inline-block text-black hover:text-stone-400">View Project</a>
+          <img src="/images/project1.png" alt="MindGuard Project" class="w-auto h-auto mt-4 rounded-lg shadow-md" />
+          <p class="mt-2 text-black">
+            The MindGuard project is a web-based mental health assessment tool using machine learning models for PHQ-9 depression severity analysis and sentiment analysis, built with Python, Flask, and supporting libraries like nltk, scikit-learn, and Seaborn.
+          </p>
+          <!-- Update the href with the actual URL of your deployed project -->
+          <a href="https://hlmnhkl-mindguard.netlify.app" class="mt-4 font-semibold inline-block text-black hover:text-stone-400" target="_blank" rel="noopener noreferrer">View Project</a>
         </div>
       </div>
     </div>

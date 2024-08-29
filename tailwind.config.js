@@ -1,9 +1,14 @@
 module.exports = {
   content: [
-    "./src/**/*.{js,ts,jsx,tsx,vue}",
+    './src/**/*.{js,jsx,ts,tsx,vue}',
+    './public/index.html',
   ],
   theme: {
-    extend: {},
+    extend: {
+      fontFamily: {
+        sans: ['Montserrat', 'sans-serif'],
+      },
+    },
   },
   plugins: [],
 }
