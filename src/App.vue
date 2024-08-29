@@ -1,5 +1,5 @@
 <template>
-  <div id="app" class="bg-gray-50 text-gray-800 font-sans">
+  <div id="app" class="bg-gray-50 text-gray-800 ">
     <MainHeader />
     <main>
       <HeroSection />
