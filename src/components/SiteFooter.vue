@@ -1,5 +1,5 @@
 <template>
-  <footer class="bg-gray-800 text-white py-4">
+  <footer class="bg-gray-800 text-white py-4 rounded">
     <div class="container mx-auto text-center">
       <p>&copy; 2024 Hilman Haikal. All rights reserved.</p>
     </div>

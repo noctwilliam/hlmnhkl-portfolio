@@ -1,5 +1,5 @@
 <template>
-  <header class="bg-white shadow-sm py-4">
+  <header class="bg-black shadow-sm py-4 rounded">
     <div class="container mx-auto flex flex-wrap items-center justify-between">
       <h1 class="text-2xl font-semibold text-white">hlmnhkl</h1>
       <nav>
