@@ -28,7 +28,6 @@
           <h3 class="text-xl font-semibold">Laptop Cost Estimation</h3>
           <div>
             <img src="/images/project3 (1).png" alt="LaptopCostEstimation" class="w-auto h-auto mt-4 rounded-lg shadow-md" />
-            <img src="/images/project3 (2).png" alt="LaptopCostEstimation" class="w-auto h-auto mt-4 rounded-lg shadow-md" />
           </div>
           <p class="mt-2 text-justify">
             ...
