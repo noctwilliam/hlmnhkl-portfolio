@@ -1,21 +1,21 @@
 <template>
-  <section id="contact" class="py-16 px-4 bg-stone-400 rounded">
-    <div class="container mx-auto">
-      <h2 class="text-3xl font-bold text-center text-black">Contact Me</h2>
+  <section id="contact" class="rounded-t-lg outline outline-1 outline-offset-1 outline-gray-300 bg-gray-700 py-20">
+    <div class="container mx-auto text-white">
+      <h2 class="text-3xl font-bold text-center">Contact Me</h2>
       <form class="mt-8 max-w-lg mx-auto">
         <div class="mb-4">
-          <label for="name" class="block text-sm font-medium mb-2 text-black">Name</label>
+          <label for="name" class="block text-sm font-medium mb-2">Name</label>
           <input id="name" type="text" class="w-full border border-gray-300 rounded-md p-2" required />
         </div>
         <div class="mb-4">
-          <label for="email" class="block text-sm font-medium mb-2 text-black">Email</label>
+          <label for="email" class="block text-sm font-medium mb-2">Email</label>
           <input id="email" type="email" class="w-full border border-gray-300 rounded-md p-2" required />
         </div>
         <div class="mb-4">
-          <label for="message" class="block text-sm font-medium mb-2 text-black">Message</label>
+          <label for="message" class="block text-sm font-medium mb-2">Message</label>
           <textarea id="message" rows="4" class="w-full border border-gray-300 rounded-md p-2" required></textarea>
         </div>
-        <button type="submit" class="bg-stone-800 text-white hover:text-stone-400 px-4 py-2 rounded-md">Send Message</button>
+        <button type="submit" class="hover:bg-gray-300 hover:text-gray-950 inline-block bg-gray-950 text-white py-2 px-4 rounded-lg">Send Message</button>
       </form>
     </div>
   </section>
