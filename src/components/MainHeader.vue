@@ -26,7 +26,6 @@
           <li><a href="#hero" class="hover:text-indigo-400 transition-colors duration-200 text-lg block lg:inline-block mt-2 lg:mt-0">Home</a></li>
           <li><a href="#projects" class="hover:text-indigo-400 transition-colors duration-200 text-lg block lg:inline-block mt-2 lg:mt-0">Projects</a></li>
           <li><a href="#about" class="hover:text-indigo-400 transition-colors duration-200 text-lg block lg:inline-block mt-2 lg:mt-0">About</a></li>
-          <li><a href="#contact" class="hover:text-indigo-400 transition-colors duration-200 text-lg block lg:inline-block mt-2 lg:mt-0">Contact</a></li>
         </ul>
       </nav>
     </div>
