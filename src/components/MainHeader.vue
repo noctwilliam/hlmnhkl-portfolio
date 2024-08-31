@@ -1,7 +1,7 @@
 <template>
   <header class="shadow-sm py-4 bg-gray-900">
     <div class="container mx-auto flex flex-wrap items-center justify-between">
-      <h1 class="tracking-wide text-2xl font-semibold text-white">hlmnhkl</h1>
+      <h1 class="pl-2 tracking-wide text-2xl font-semibold text-white">hlmnhkl</h1>
       <!-- Modern Burger Icon (visible on mobile) -->
       <div class="lg:hidden">
         <button @click="isMenuOpen = !isMenuOpen" class="text-white focus:outline-none">
