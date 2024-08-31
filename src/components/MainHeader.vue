@@ -4,7 +4,7 @@
       <h1 class="pl-2 tracking-wide text-2xl font-semibold text-white">hlmnhkl</h1>
       <!-- Modern Burger Icon (visible on mobile) -->
       <div class="lg:hidden">
-        <button @click="isMenuOpen = !isMenuOpen" class="text-white focus:outline-none">
+        <button @click="isMenuOpen = !isMenuOpen" class="text-white focus:outline-none pr-1">
           <svg
             :class="{'transform rotate-90': isMenuOpen}" 
             class="w-8 h-8 transition-transform duration-300 ease-in-out" 
