@@ -5,7 +5,6 @@
       <HeroSection />
       <ProjectList />
       <AboutMe />
-      <ContactForm />
     </main>
     <SiteFooter />
   </div>
@@ -16,7 +15,6 @@ import MainHeader from './components/MainHeader.vue';
 import HeroSection from './components/HeroSection.vue';
 import ProjectList from './components/ProjectList.vue';
 import AboutMe from './components/AboutMe.vue';
-import ContactForm from './components/ContactForm.vue';
 import SiteFooter from './components/SiteFooter.vue';
 
 export default {
@@ -26,7 +24,6 @@ export default {
     HeroSection,
     ProjectList,
     AboutMe,
-    ContactForm,
     SiteFooter,
   },
 };
