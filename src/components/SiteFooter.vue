@@ -1,7 +1,7 @@
 <template>
   <footer class="outline outline-1 outline-offset-1 outline-gray-300 bg-gray-900 text-white text-center py-4">
     <div class="container mx-auto text-center">
-      <p>&copy; 2024 Hilman Haikal. All rights reserved.</p>
+      <p>&copy; {{ new Date().getFullYear() }} Hilman Haikal. All rights reserved.</p>
     </div>
   </footer>
 </template>
